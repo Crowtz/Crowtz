@@ -7,6 +7,15 @@
 
 ---
 
+<div align="center">
+  <a href="https://linkedin.com/in/lucas-julionel-7a489542b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/1crowtz" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://instagram.com/lucas.julionel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/crowtz" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</div>
+
+---
+
 ## 👨‍💻 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (FAC-SP)** e atuo como Desenvolvedor Full Stack, com forte foco em Engenharia Backend. Tenho paixão por construir sistemas escaláveis, integrações complexas e automatizar processos.
@@ -64,13 +73,4 @@ Plataforma Full Stack open-source para e-commerces.
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crowtz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/lucas-julionel-7a489542b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/1crowtz" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://instagram.com/lucas.julionel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/c/crowtz" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </div>
