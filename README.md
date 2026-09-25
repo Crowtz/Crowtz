@@ -1,10 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Julionel 👋</h1>
 <h3 align="center">Desenvolvedor Backend & Full Stack | Especialista em Java, Spring Boot e Automações</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Crowtz&theme=flat&no-frame=true&margin-w=15" alt="Troféus GitHub" /></a>
-</p>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=crowtz&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visualizações" /> 
 </p>
