@@ -1,42 +1,58 @@
-<h1 align="center">Lucas Julionel</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Backend & Full Stack • Java • Spring Boot • Integrações e automações
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163B65,100:38BDF8&height=200&section=header&text=Lucas%20Julionel&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full%20Stack%20%7C%20Automa%C3%A7%C3%B5es&descSize=18&descAlignY=60" alt="Lucas Julionel — Backend, Full Stack e Automações" />
 
-<p align="center">
-  <a href="mailto:lucashjds@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/lucas-julionel-7a489542b">LinkedIn</a> •
-  <a href="https://x.com/1crowtz">X</a> •
-  <a href="https://instagram.com/lucas.julionel">Instagram</a>
-</p>
+<a href="https://github.com/Crowtz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Da+ideia+ao+deploy.;Java+%2B+Spring+Boot+%2B+Docker;APIs%2C+pagamentos+e+produtos+digitais.;Automatizando+processos.+Construindo+solu%C3%A7%C3%B5es." alt="Da ideia ao deploy. Java, Spring Boot e Docker. APIs, pagamentos e produtos digitais." />
+</a>
 
----
+<br><br>
 
-### 👋 Sobre mim
+<a href="mailto:lucashjds@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/lucas-julionel-7a489542b">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/lucas.julionel">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+</a>
+<a href="https://x.com/1crowtz">
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.youtube.com/c/crowtz">
+  <img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0033" alt="YouTube" />
+</a>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (FAC-SP)** e desenvolvo aplicações com foco em backend. Gosto de transformar processos complexos em produtos simples de usar, especialmente quando envolvem pagamentos, integrações de APIs e automação.
+<br><br>
 
-Hoje trabalho em soluções que combinam **Java, Spring Boot, bancos de dados e Docker**, da lógica de negócio à implantação.
+<a href="#-sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+<a href="#-projetos-em-destaque">Projetos</a> &nbsp;·&nbsp;
+<a href="#-minha-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#-vamos-construir-algo">Contato</a>
 
-- **Construindo:** plataformas SaaS, sistemas de checkout e fluxos de entrega digital.
-- **Explorando:** arquitetura de software, integrações de pagamento e infraestrutura.
-- **Uma experiência que marcou minha trajetória:** criei e administrei um servidor de Minecraft que chegou a 300 jogadores simultâneos.
+</div>
 
-### Projetos
+<br>
 
-| Projeto | O que faz | Destaques |
-| --- | --- | --- |
-| [ShieldFy](https://shieldfy.click/) | Plataforma SaaS para operações de marketing digital. | Proteção de ofertas, roteamento de tráfego, testes A/B e rastreamento. |
-| [AcessoFlow](https://acessoflow.store/) | Checkout e entrega de produtos digitais. | Fluxos de pagamento e automação da entrega após a compra. |
-| [Checkout com Mercado Pago](https://github.com/Crowtz/Full-Stack-Checkout-Platform-Spring-Boot-MySQL-Docker-) | Projeto full stack de checkout para e-commerce. | Java, Spring Boot, webhooks, MySQL e Docker. |
+## 👨‍💻 Sobre mim
 
-### Tecnologias
+**Construo os bastidores que fazem um produto funcionar.**
 
-**Backend:** Java · Spring Boot · PHP · Node.js  
-**Dados e infraestrutura:** MySQL · MongoDB · Docker · Linux  
-**Frontend:** HTML · CSS · JavaScript
+Sou **Lucas Julionel**, desenvolvedor Backend & Full Stack e estudante de **Análise e Desenvolvimento de Sistemas na FAC-SP**.
 
-### Vamos conversar?
+Meu foco está em conectar aplicações, processar pagamentos e automatizar operações. Trabalho com **Java e Spring Boot**, desenvolvendo desde a lógica de negócio até as integrações e a infraestrutura da aplicação.
 
-Se você está construindo um produto que precisa de **backend, pagamentos ou automações**, entre em contato pelo [email](mailto:lucashjds@gmail.com) ou pelo [LinkedIn](https://linkedin.com/in/lucas-julionel-7a489542b).
+```java
+public class Lucas {
+
+    String foco = "Backend & Full Stack";
+
+    String[] construindo = {
+        "Produtos SaaS",
+        "Integrações de APIs",
+        "Checkouts e automações"
+    };
+
+    String filosofia = "Entender o problema. Construir. Melhorar.";
+}
