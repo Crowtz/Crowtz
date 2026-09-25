@@ -8,10 +8,21 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/lucas-julionel-7a489542b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/1crowtz" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="https://instagram.com/lucas.julionel" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/c/crowtz" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="mailto:lucashjds@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/lucas-julionel-7a489542b" target="_blank">
+    <img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/1crowtz" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/lucas.julionel" target="_blank">
+    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/c/crowtz" target="_blank">
+    <img src="https://img.shields.io/badge/-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
 </div>
 
 ---
