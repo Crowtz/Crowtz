@@ -43,20 +43,6 @@ Sou **Lucas Julionel**, desenvolvedor Backend & Full Stack e estudante de **Aná
 
 Meu foco está em conectar aplicações, processar pagamentos e automatizar operações. Trabalho com **Java e Spring Boot**, desenvolvendo desde a lógica de negócio até as integrações e a infraestrutura da aplicação.
 
-```java
-public class Lucas {
-
-    String foco = "Backend & Full Stack";
-
-    String[] construindo = {
-        "Produtos SaaS",
-        "Integrações de APIs",
-        "Checkouts e automações"
-    };
-
-    String filosofia = "Entender o problema. Construir. Melhorar.";
-}
-
 ### 📊 Estatísticas
 
 <p>
@@ -74,3 +60,17 @@ public class Lucas {
     src="https://github-readme-stats-five-zeta-72.vercel.app/api/top-langs/?username=sara-mageste&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+```java
+public class Lucas {
+
+    String foco = "Backend & Full Stack";
+
+    String[] construindo = {
+        "Produtos SaaS",
+        "Integrações de APIs",
+        "Checkouts e automações"
+    };
+
+    String filosofia = "Entender o problema. Construir. Melhorar.";
+} 
