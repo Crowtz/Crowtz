@@ -1,83 +1,42 @@
-<h1 align="center">Olá, eu sou o Lucas Julionel 👋</h1>
-<h3 align="center">Desenvolvedor Backend & Full Stack | Especialista em Java, Spring Boot e Automações</h3>
+<h1 align="center">Lucas Julionel</h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=crowtz&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="Visualizações" /> 
+<p align="center">
+  Desenvolvedor Backend & Full Stack • Java • Spring Boot • Integrações e automações
+</p>
+
+<p align="center">
+  <a href="mailto:lucashjds@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/lucas-julionel-7a489542b">LinkedIn</a> •
+  <a href="https://x.com/1crowtz">X</a> •
+  <a href="https://instagram.com/lucas.julionel">Instagram</a>
 </p>
 
 ---
 
-<div align="center">
-  <a href="mailto:lucashjds@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/lucas-julionel-7a489542b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/1crowtz" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/lucas.julionel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/c/crowtz" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-</div>
+### 👋 Sobre mim
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas (FAC-SP)** e desenvolvo aplicações com foco em backend. Gosto de transformar processos complexos em produtos simples de usar, especialmente quando envolvem pagamentos, integrações de APIs e automação.
 
-## 👨‍💻 Sobre Mim
+Hoje trabalho em soluções que combinam **Java, Spring Boot, bancos de dados e Docker**, da lógica de negócio à implantação.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (FAC-SP)** e atuo como Desenvolvedor Full Stack, com forte foco em Engenharia Backend. Tenho paixão por construir sistemas escaláveis, integrações complexas e automatizar processos.
+- **Construindo:** plataformas SaaS, sistemas de checkout e fluxos de entrega digital.
+- **Explorando:** arquitetura de software, integrações de pagamento e infraestrutura.
+- **Uma experiência que marcou minha trajetória:** criei e administrei um servidor de Minecraft que chegou a 300 jogadores simultâneos.
 
-- 🚀 **Foco atual:** Integrações avançadas de API (mensageria e pagamentos), arquitetura de software e desenvolvimento de soluções SaaS.
-- 💡 **Experiência:** Desenvolvimento de plataformas de checkout, Webhooks, sistemas para marketing digital e gestão de infraestrutura (Docker/Linux).
-- ⚡ **Curiosidade:** Em 2019, criei e geri um servidor de Minecraft que atingiu 300 jogadores online em simultâneo, e já desenvolvi um jogo de mira utilizando a JMonkeyEngine!
-- 📫 **Contacto:** lucashjds@gmail.com
+### Projetos
 
----
+| Projeto | O que faz | Destaques |
+| --- | --- | --- |
+| [ShieldFy](https://shieldfy.click/) | Plataforma SaaS para operações de marketing digital. | Proteção de ofertas, roteamento de tráfego, testes A/B e rastreamento. |
+| [AcessoFlow](https://acessoflow.store/) | Checkout e entrega de produtos digitais. | Fluxos de pagamento e automação da entrega após a compra. |
+| [Checkout com Mercado Pago](https://github.com/Crowtz/Full-Stack-Checkout-Platform-Spring-Boot-MySQL-Docker-) | Projeto full stack de checkout para e-commerce. | Java, Spring Boot, webhooks, MySQL e Docker. |
 
-## 🚀 Projetos em Destaque
+### Tecnologias
 
-### 🛡️ [ShieldFy](https://shieldfy.click/)
-Plataforma SaaS de infraestrutura para marketing digital. Focada na proteção de ofertas, roteamento de tráfego inteligente (Split Test) e rastreamento avançado.
-* **Destaques:** Integrações nativas com APIs do Meta Ads, TikTok Ads e gestão dinâmica de parâmetros UTM.
+**Backend:** Java · Spring Boot · PHP · Node.js  
+**Dados e infraestrutura:** MySQL · MongoDB · Docker · Linux  
+**Frontend:** HTML · CSS · JavaScript
 
-### 🛒 [AcessoFlow](https://acessoflow.store/)
-Plataforma de checkout transparente e orquestrador de entregas digitais.
-* **Destaques:** Processamento de pagamentos em tempo real e entrega imediata e automatizada de produtos digitais via e-mail pós-venda.
+### Vamos conversar?
 
-### 💳 [Sistema de Checkout - Mercado Pago](https://github.com/Crowtz/Full-Stack-Checkout-Platform-Spring-Boot-MySQL-Docker-)
-Plataforma Full Stack open-source para e-commerces.
-* **Destaques:** Integração completa com a API do Mercado Pago via Webhooks, disparos automáticos via SMTP e orquestração de infraestrutura com Docker.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-**Backend & Arquitetura:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Infraestrutura & Bancos de Dados:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crowtz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+Se você está construindo um produto que precisa de **backend, pagamentos ou automações**, entre em contato pelo [email](mailto:lucashjds@gmail.com) ou pelo [LinkedIn](https://linkedin.com/in/lucas-julionel-7a489542b).
